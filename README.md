@@ -1,2 +1,3 @@
-# ultra-smart-home-jvdd
-A smart home automation platform for modern development workflows
+# Ultra Smart Home Jvdd
+
+A smart home automation platform for modern development workflows.
